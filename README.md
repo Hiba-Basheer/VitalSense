@@ -16,19 +16,6 @@ VitalSense is a comprehensive health monitoring system designed to predict and m
 - `data/`: Directory for datasets (excluded from git).
 - `model/`: Directory for saved ML models.
 
-## Installation
-
-1. **Clone the repository**:
-   ```bash
-   git clone <repository-url>
-   cd VitalSense
-   ```
-
-2. **Install dependencies**:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 ## Usage
 
 ### 1. Preprocess Data
